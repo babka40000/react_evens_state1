@@ -1,0 +1,21 @@
+.toolbar-main {
+    display: flex; 
+}
+
+.toolbar-item {
+    display: flex;
+    border: 1px black solid;
+    margin-left: 5px;
+    padding: 5px;
+    background-color: antiquewhite;
+    color: black;
+}
+
+.toolbar-item-active {
+    display: flex;
+    border: 1px black solid;
+    margin-left: 5px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
